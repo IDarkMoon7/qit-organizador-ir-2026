@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner QIT Organizador de IR" width="100%">
+  <img src="QIT Organizador IR.jpg" alt="Banner QIT Organizador de IR" width="100%">
 </div>
 
 <div align="center">
