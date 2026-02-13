@@ -47,4 +47,4 @@ Este projeto nasceu da necessidade de simplificar a "mordida do leão". Utilizan
 **Keite**
 *Engenheira em transição para a Área de Dados & Embaixadora DIO*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/keitemascena)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keitemascena)
